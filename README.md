@@ -1,3 +1,2 @@
 # odin-recipes
-Odin Recipes
-AC's Recipe Book!
+Odin Recipes - AC's Recipe Book! Albert has taken the opportunity to learn how to properly use GitHub to set up a repository and learn how to capture git commit. His goal for this effort is to create recipe book leveraging HTML.

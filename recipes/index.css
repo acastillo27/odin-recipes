@@ -25,7 +25,8 @@ h1{
 
 .img {
     display: block;
-    margin:auto;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 45px;
     width: 400px;
 }
